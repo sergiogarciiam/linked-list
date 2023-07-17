@@ -3,14 +3,7 @@ Implementation of a [linked list](./src/linkedList.js) with JavaScript
 
 The project is from The [Odin Project](https://www.theodinproject.com/lessons/javascript-linked-lists) curriculum.
 
-## Files
-
-- [index.js](index.js): script to test the linked list
-- [linkedList.js](/src/linkedList.js): linked list class 
-- [node.js](/src/node.js): node class
-
-
-## Functions
+## Features
 
 - **append(value)**: adds a new node containing value to the end of the list or to start if list is empty.
 
