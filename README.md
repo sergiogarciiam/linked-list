@@ -1,7 +1,7 @@
 # Linked List
 Implementation of a [linked list](./src/linkedList.js) with JavaScript
 
-The project is from The [Odin Project](https://www.theodinproject.com/lessons/javascript-recursion) curriculum.
+The project is from The [Odin Project](https://www.theodinproject.com/lessons/javascript-linked-lists) curriculum.
 
 ## Files
 
