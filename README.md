@@ -10,7 +10,7 @@ The project is from The [Odin Project](https://www.theodinproject.com/lessons/ja
 - [node.js](/src/node.js): node class
 
 
-## Linked list functions
+## Functions
 
 - **append(value)**: adds a new node containing value to the end of the list or to start if list is empty.
 
@@ -35,3 +35,11 @@ The project is from The [Odin Project](https://www.theodinproject.com/lessons/ja
 - **insertAt(value, index)**: inserts a new node with the provided value at the given index or at the end of the list if index is bigger than list size.
 
 - **removeAt(index)**: removes the node at the given index and return it.
+
+## Author
+
+[Sergio García](https://github.com/sergiogarciiam)
+
+## License
+
+This project is open source and available under the [MIT License](./LICENSE).
