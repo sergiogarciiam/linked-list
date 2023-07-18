@@ -1,5 +1,5 @@
 # Linked List
-[Linked list](./src/linkedList.js) implemented with JavaScript
+[Linked list](./src/linkedList.js) implemented with JavaScript.
 
 This project is from [The Odin Project](https://www.theodinproject.com/lessons/javascript-linked-lists) curriculum.
 
