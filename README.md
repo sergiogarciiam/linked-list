@@ -1,7 +1,7 @@
 # Linked List
-Implementation of a [linked list](./src/linkedList.js) with JavaScript
+[Linked list](./src/linkedList.js) implemented with JavaScript
 
-The project is from The [Odin Project](https://www.theodinproject.com/lessons/javascript-linked-lists) curriculum.
+This project is from [The Odin Project](https://www.theodinproject.com/lessons/javascript-linked-lists) curriculum.
 
 ## Features
 

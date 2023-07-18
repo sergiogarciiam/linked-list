@@ -3,7 +3,7 @@ import { LinkedList } from "./src/linkedList.js";
 const myList = new LinkedList();
 
 myList.append(1);
-myList.append(2);
+myList.append(3);
 myList.prepend(5);
 myList.append(12);
 
@@ -27,7 +27,6 @@ console.log(`Contains 12? ${myList.contains(12)}`);
 
 console.log("--------------");
 
-console.log(`Index of 2? ${myList.find(2)}`);
 console.log(`Index of 5? ${myList.find(5)}`);
 console.log(`Index of 12? ${myList.find(12)}`);
 
